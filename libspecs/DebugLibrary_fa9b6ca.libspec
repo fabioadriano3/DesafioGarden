@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keywordspec name="DebugLibrary" type="library" format="ROBOT" generated="20210604 11:27:42">
+<version>1.3.1</version>
+<scope>global</scope>
+<namedargs>yes</namedargs>
+<doc>Debug Library for RobotFramework</doc>
+<kw name="Debug">
+<arguments>
+</arguments>
+<doc>Open a interactive shell, run any RobotFramework keywords.
+
+Keywords separated by two space or one tab, and Ctrl-D to exit.</doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Remote Url">
+<arguments>
+</arguments>
+<doc>Get selenium URL for connecting to remote WebDriver.</doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Session Id">
+<arguments>
+</arguments>
+<doc>Get selenium browser session id.</doc>
+<tags>
+</tags>
+</kw>
+<kw name="Get Webdriver Remote">
+<arguments>
+</arguments>
+<doc>Print the way connecting to remote selenium server.</doc>
+<tags>
+</tags>
+</kw>
+</keywordspec>
